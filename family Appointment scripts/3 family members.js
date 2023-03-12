@@ -48,13 +48,13 @@
       //############### THIS IS THE PART YOU MUST CHANGE #######################
       //########################################################################
 
-    var lastNames =["last_Names_1","last_Names_2","last_Names_3"],
-        firstNames =["first_Names_1","first_Names_2","first_Names_3"],
-        births =["yyyy-mm-aa","yyyy-mm-aa","yyyy-mm-aa"],
-        passNumbers =["KN0000000","LF0000000","BH0000000"],
-        issueDates =["yyyy-mm-aa","yyyy-mm-aa","yyyy-mm-aa"],
-        expiryDates =["yyyy-mm-aa","yyyy-mm-aa","yyyy-mm-aa"],
-        pptissuePalaces =["city Name","city Name","city Name"],
+    var lastNames =["ELGHOUDRI","KARIM","ELGHOUDRI"],
+        firstNames =["SALAH","AMINA","ILYASS"],
+        births =["1968-01-01","1978-05-08","2007-10-25"],
+        passNumbers =["EJ8412301","QW6764657","GK6108294"],
+        issueDates =["2019-02-20","2019-02-20","2023-02-16"],
+        expiryDates =["2024-02-20","2024-02-20","2028-02-16"],
+        pptissuePalaces =["BENI MELLAL","BENI MELLAL","BENI MELLAL"],
         number = 3,
       //########################################################################
       //########################################################################
